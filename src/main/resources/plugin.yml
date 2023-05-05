@@ -1,0 +1,4 @@
+name: EnderDragonDropsElytra
+version: '${project.version}'
+main: com.gradyn.enderdragondropselytra.EnderDragonDropsElytra
+api-version: 1.19
